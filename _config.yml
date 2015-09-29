@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: yang
+  email: julang200@qq.com
+  link: http://julang200.com
+  weibo: 
+  github: https://github.com/yangluoGitHub
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: yang的博客 
+description: yang的博客
+url: http://julang200.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -30,4 +30,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: yang-zh
