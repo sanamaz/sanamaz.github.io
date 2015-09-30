@@ -1,15 +1,15 @@
 # Site settings
-title: Yang Blog
+title: 沈杨
 motto: 嗯哼，睡你麻痹，high起来！！！！
-email: julang200@qq.com
+email: 1246419281@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yangluogithub.github.io" # the base hostname & protocol for your site
+url: "http://sanamaz.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  yangluoGitHub
+github_username:  sanamaz
 
 # Build settings
 markdown: kramdown
