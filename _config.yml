@@ -1,33 +1,15 @@
-permalink: /:year/:month/:day/:title.html
+# Site settings
+title: Yang Blog
+motto: 我虽小，但我却能留下您的足迹
+email: julang200@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://julang200.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  yangluoGitHub
+
+# Build settings
 markdown: kramdown
-pygments: true
-
-kramdown:
-  input: GFM
-
-# 作者信息
-author: 
-  name: yangluoGitHub
-  email: julang200@qq.com
-  link: http://julang200.com
-  weibo: 
-  github: https://github.com/yangluoGitHub
-
-# 站点信息
-title: yang的博客 
-description: yang的博客
-url: http://julang200.com
-rss_url: /pages/atom.xml
-
-# avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
-
-# google analytics 设置
-ga:
-  id: UA-54767140-1
-  url: yansu.org
-
-# disqus 设置
-disqus:
-  shortname: yang-zh
